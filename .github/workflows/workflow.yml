@@ -13,7 +13,7 @@ permissions:
 
 jobs:
 
- # Build the application and database.
+ # Buiild the application and database.
   build:
     uses: ./.github/workflows/build.yml
 
